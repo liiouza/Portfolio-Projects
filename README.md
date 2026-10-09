@@ -24,3 +24,6 @@ A SQL project for storing and querying network inventory information.
 A C++ project simulating how packets are routed through a network.
 [Open project](./Packet%20Router%20Simulator%20C%2B%2B%3AREADME.md)
 
+### Small Business Network Cisco Packet Tracer 
+Small office network with separate VLANs for Staff, Finance, IT, Guest, Servers, and Management.
+
